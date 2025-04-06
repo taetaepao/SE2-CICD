@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "se-cicd-2a29b",
+    "web": "se-cicd-2a29b"
+  },
+  "targets": {},
+  "etags": {}
+}
